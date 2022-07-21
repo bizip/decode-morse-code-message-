@@ -1,8 +1,8 @@
 
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-> # ruby-templete
-This reposittory has all the sartup files required to start a ruby project with linters and so on, Please try it
+> # Decode morce message
+This app will decode demorces message
 
 ## Built With
 
@@ -21,13 +21,12 @@ You need to have a basic knowledge about ruby
 
 #### clone this project (using git clone https://github.com/bizip/ruby-templete.git) to your local computer and use telminal to navigate into the parent directory of this project.
 
-## OR
-choose this repository as your templete
+
 
 
 ### Usage
 
-run: 
+run: decodeMessage.rb
 
 ## Authors
 
